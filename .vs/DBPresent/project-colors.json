@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84b9c5d9-997c-4656-9880-fcb55c7dcb0f": {
+      "ProjectGuid": "84b9c5d9-997c-4656-9880-fcb55c7dcb0f",
+      "DisplayName": "DBPresent",
+      "ColorIndex": 0
+    },
+    "e2f34180-3032-4268-b898-6d9e6979190f": {
+      "ProjectGuid": "e2f34180-3032-4268-b898-6d9e6979190f",
+      "DisplayName": "Context",
+      "ColorIndex": 1
+    },
+    "70e1edfc-9fd5-47a1-bb83-eb24ca260d6a": {
+      "ProjectGuid": "70e1edfc-9fd5-47a1-bb83-eb24ca260d6a",
+      "DisplayName": "Core",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "143563d4-cf9e-4ad8-a5ee-7388888a65d7": {
+      "ProjectGuid": "143563d4-cf9e-4ad8-a5ee-7388888a65d7",
+      "DisplayName": "DatabaseModels",
+      "ColorIndex": 3
+    },
+    "7c22fc7f-0316-49c6-a962-755cef95d396": {
+      "ProjectGuid": "7c22fc7f-0316-49c6-a962-755cef95d396",
+      "DisplayName": "Present",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

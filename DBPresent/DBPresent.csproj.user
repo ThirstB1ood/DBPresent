@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CertificateVC\AddCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CertificateVC\Certificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CertificateVC\UpdateCertificate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorVC\AddDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorVC\Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorVC\UpdateDoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecializationVC\AddSpecialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecializationVC\Specialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SpecializationVC\UpdateSpecialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

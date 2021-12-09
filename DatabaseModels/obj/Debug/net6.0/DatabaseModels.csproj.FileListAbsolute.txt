@@ -1,0 +1,13 @@
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\bin\Debug\net6.0\DatabaseModels.deps.json
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\bin\Debug\net6.0\DatabaseModels.dll
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\bin\Debug\net6.0\ref\DatabaseModels.dll
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\bin\Debug\net6.0\DatabaseModels.pdb
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.GlobalUsings.g.cs
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.csproj.AssemblyReference.cache
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.AssemblyInfo.cs
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.dll
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\ref\DatabaseModels.dll
+C:\Users\vdv30\source\repos\Presentation\DatabaseModels\obj\Debug\net6.0\DatabaseModels.pdb
